@@ -1,5 +1,5 @@
 
-import TranslationCard from "./components/translationCard";
+import TranslationCard from "./components/TranslationCard";
 import Header from "./components/Header";
 import './App.css'
 
